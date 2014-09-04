@@ -1,0 +1,27 @@
+*When you search for a podcast after having already subscribed to one, you are take back to previous search results
+*When you see search results, no idication if you have already subscribed to a podcast
+*No podcast info when you tap on a possible podcast to subscribe to
+*Partial name search gave back blank results (see photo)
+*Podcasts are saved in chronological order, no way to put in alpha order
+*Don't see anything about playlists (including an unplayed playlist)
+*When you open a subscribed podcast, you see podcast info - no link?
+**FOLLOW UP - check other podcatchers to see what they show
+*Did not see any obvious played/unplayed indicator
+**UPDATE: there is a "new" label in bold text, in the same color as other text. I missed this on first glance
+*Only after streaming podcast did color change
+*Where is the download option?
+*No scrubber or fastforward button (even tried clicking/touching)
+*No rewind button
+*Some podcasts do not show all episodes. 5 mins of JS only shows from #34 to #10. However ATP shows all 79 episodes. Could be a feed problem.
+*If you go back to desktop while playing, you will see an "playing" icon in the black bar. Clicking on it does nothing. Pulling down the notification area shows nothing about the currently playing podcast. How do you quickly stop when you need to talk to somebody?
+*Not sure how to turn on the lock screen to see if there controls from there
+*Text of "Podcasts" in the top banner is not centered
+*Search for podcast text is on the left
+*Can't swipe left or right on podcast episodes - would be great for download/delete options
+*No unsubscribe confirmation
+*Was in the middle of listening to podcast, unsubscribed for it, but was still able to play the in-progress podcast
+*As you listen to podcast, you do not see how much time is remaining. There is a progress bar though.
+*No way to add a one off podcast episode
+*No social sharing, though this may not be a bad thing
+
+

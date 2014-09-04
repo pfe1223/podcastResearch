@@ -1,0 +1,19 @@
+*Gives you an option to start streaming the episode while downloading
+*Good delineation between unplayed/played - like the gap
+*Offers options on an individual episode basis
+*Slide-out hamburger menu with long list of options
+*Pause, fast-forward, and rewind from the lockscreen
+*Can mark all episodes as played with one push of a button
+*Offers a minimized play screen - just pause/play
+*Offers podcast sorted by network
+*Does not offer active search
+*When you launch app for the first time, takes you right to content
+*Allows for partial name search
+*Big artwork on play screen, scrubber, fast-forward and rewind at custom times
+*You can sort your podcast subscription
+*Mark your favorite episodes with a star, can also share them
+*Stars show up in episode list
+*Subscribe screen offer podcast description
+*Subscribed podcasts are marked in search results
+*Clearly marked podcasts with new episodes
+*Blank subscription screen, but hidden from user when using app for first time
