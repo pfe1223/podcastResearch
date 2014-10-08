@@ -1,0 +1,15 @@
+*Liked the voice directions on first launch
+*Good use of space, readable
+*The play/pause button color draws my eye towards it
+*Like the left/right swiping to change stories
+*Automatically starts playing local NPR station, which is handy if you are an NPR fan. I prefer stories from specific programs, so the radio is an "unwanted" feature
+*Like the small use of color to break up the top bar from the play screen
+*Like how the blue glow at the bottom signifies more content if you scroll down
+*No way to jump ahead in a program. This is a common feature in podcast clients, but NPR One isn't really a podcast client.
+*Search button is on the top left. This is a very diliberate action, mostly reserved for the back button. Seems like a better fit to put it on the left.
+*Searching for a show does not produce the catalog.
+*How the app defines relevant is not always clear. Only signal to give to app is the interesting icon
+*Like how they did not use a star for the interesting icon
+*When searching, a list of possible shows are presented before a search term is entered. Not sure how I feel about this.
+*Really like the simplicity, much better done than Pod Wrangler, though Pod Wrangler has more features
+*Lock screen shows local NPR affiliate, even if I am not listening to the radio
